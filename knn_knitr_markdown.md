@@ -1,19 +1,3 @@
----
-title: "KNNalgorithm"
-author: "Jin-ah Sim"
-output:
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float:
-      collapsed: true
-      smooth_scroll: true
-    number_sections: true
-    theme: sandstone
----
-
-
-
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
